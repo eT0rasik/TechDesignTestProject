@@ -15,10 +15,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Middleground
+  - Mainground
+  - Foreground
   - 
   - 
   - 
@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3285576503
+    locked: 0
+  - name: Middleground
+    uniqueID: 1473551015
+    locked: 0
+  - name: Mainground
+    uniqueID: 832552367
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1482396965
     locked: 0
