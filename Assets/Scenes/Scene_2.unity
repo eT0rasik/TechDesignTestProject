@@ -408,6 +408,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6030002871058935453, guid: 7477ba2854dc303419060f6c982c7eee, type: 3}
   m_PrefabInstance: {fileID: 6030002871170063493}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &258665148 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6256179683656521913, guid: e022ff31a8344f947a3de6210054e75d, type: 3}
+  m_PrefabInstance: {fileID: 6256179684424696979}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &349235526
 GameObject:
   m_ObjectHideFlags: 0
@@ -3615,6 +3620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sign_1
       objectReference: {fileID: 0}
+    - target: {fileID: 4858861599692676328, guid: 0e34a75513ac7de42b5a2a5995fc6448, type: 3}
+      propertyPath: m_gameObject
+      value: 
+      objectReference: {fileID: 258665148}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e34a75513ac7de42b5a2a5995fc6448, type: 3}
 --- !u!1001 &1783478837411114262
@@ -4122,6 +4131,10 @@ PrefabInstance:
     - target: {fileID: 6256179683656521913, guid: e022ff31a8344f947a3de6210054e75d, type: 3}
       propertyPath: m_Name
       value: Change_scene_button
+      objectReference: {fileID: 0}
+    - target: {fileID: 6256179683656521913, guid: e022ff31a8344f947a3de6210054e75d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6256179683656521916, guid: e022ff31a8344f947a3de6210054e75d, type: 3}
       propertyPath: scene_name
